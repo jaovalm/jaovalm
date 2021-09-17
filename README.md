@@ -1,5 +1,5 @@
-### Olá, seja bem-vindo(a). Meu nome é João. É um prazer te ter aqui! 👋
+### Olá, seja bem-vindo(a). Meu nome é João. É um prazer ter sua visita aqui! 👋
 
 - 🔭 Atualmente trabalhando como Instrutor de Computação
-- 🌱 Estudando Análise de Dados com as ferramentas PowerBI, MySQL, Tableau etc.. 
-- 😄 Pronomes: Ele\Dele
+- 🌱 Estudando Análise de Dados com as ferramentas PowerBI, MySQL, Tableau, Artificial Inteligence etc.. 
+- 😄 
